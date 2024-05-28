@@ -19,7 +19,7 @@ jobs:
       - name: debug
         run: pwd && ls -hal .
       - name: status-update
-        run: ENV_VAR=${{ secrets.ENV_VAR }} ./status-update.sh
+        run: ENV_VAR=${{ secrets.ENV_VAR }} ./bin/status-update.sh
       # - name: Upload analysis results to GitHub
       #   uses: github/codeql-action/upload-sarif@v2
       #   with:
