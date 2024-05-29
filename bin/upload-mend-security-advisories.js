@@ -116,7 +116,7 @@ const uploadSecurityAdvisoriesFromWssReport =
 console.log('reading dir samples');
 readdirSync('./samples', { withFileTypes: true }).forEach(dirent => {
   console.log('reading dir "samples:', dirent);
-  if (dirent.isFile() && /\.scan_report\.json$/.test(dirent.name)) {
+  if (dirent.isFile() && /-scan_report\.json$/.test(dirent.name)) {
     const wssResultsJson = readFileSync(`./samples/${dirent.name}`);
     const wssResults = parseJson(wssResultsJson);
     uploadSecurityAdvisoriesFromWssReport(wssResults);
