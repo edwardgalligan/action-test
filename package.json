@@ -1,14 +1,17 @@
 {
-    "name": "vuln.js",
-    "version": "1.0.0",
-    "description": "Testing transient dep vuln detection",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Ed Galligan <code@edgalligan.com>",
-    "license": "EUPL-1.2",
-    "dependencies": {
-        "immer": "9.0.5"
-    }
+  "name": "action-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "bin": {
+    "action-test": "bin/upload-mend-security-advisories.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "octokit": "^4.0.2"
+  }
 }
