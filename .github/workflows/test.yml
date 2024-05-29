@@ -21,7 +21,7 @@ jobs:
       #   run: ENV_VAR="${{ secrets.ENV_VAR }}" "${{ github.workspace }}/bin/status-update.sh"
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
       - name: install node deps
         run: npm install || true
       - name: debug npm issues
