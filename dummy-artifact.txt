@@ -1,0 +1,3 @@
+This text file is a placeholder to work around bugs in the Github API's SARIF parser.
+
+See https://github.com/github/codeql-action/issues/1738 & https://github.com/github/codeql-action/issues/754
