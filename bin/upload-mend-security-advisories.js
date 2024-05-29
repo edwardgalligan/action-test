@@ -93,6 +93,7 @@ const ghAdvisoryFromWssVuln =
     description, // TODO: Add actionable advice to description
     severity,
     cvss_vector_string: scoreMetadataVector,
+    vulnerabilities: [],
   });
 
 const uploadSecurityAdvisoriesFromWssReport =
