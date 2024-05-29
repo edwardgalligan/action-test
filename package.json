@@ -12,6 +12,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
+    "@octokit/core": "^6.1.2",
     "octokit": "^4.0.2"
   }
 }
