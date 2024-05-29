@@ -62,7 +62,9 @@ const artifactFromWssLibrary = (library) => {
   }
 };
 
-const uploadSecurityAdvisory = advisory => octokit.request(
+const uploadSecurityAdvisory = advisory => {
+  console.log('Uploading security advisory:', advisory.summary);
+  return octokit.request(
   'POST /repos/{owner}/{repo}/security-advisories', {
       ...advisory,
       owner: 'edwardgalligan',
@@ -70,7 +72,10 @@ const uploadSecurityAdvisory = advisory => octokit.request(
       headers: {
         'X-GitHub-Api-Version': '2022-11-28'
       }
-  });
+  })
+  .then(r => console.log('Advisory uploaded: ', advisory.summary, r))
+  .catch(e => console.error('Advisory upload failed:', advisory.summary, e));
+};
 
 const ghAdvisoryFromWssVuln =
   ({
