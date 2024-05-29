@@ -23,7 +23,13 @@ jobs:
         with:
           node-version: '20'
       - name: install node deps
-        run: npm install
+        run: npm install || true
+      - name: debug npm issues
+        uses: actions/upload-artiface@v4
+        with:
+          name: npm-logs
+          path: /home/runner/.npm/_logs/
+          overwrite: true
       - name: Upload Mend Security Advisories
         run: node --experimental-default-type=module "${{ github.workspace }}/bin/upload-mend-security-advisories.js"
       # - name: Upload analysis results to GitHub
