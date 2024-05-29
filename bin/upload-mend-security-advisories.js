@@ -1,7 +1,7 @@
-#!/usr/bin/env node
-
 import { readdirSync, readFileSync } from 'node:fs';
 import { Octokit } from '@octokit/core';
+
+console.log('Running upload-mend-security-advisories.js');
 
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN
