@@ -91,7 +91,7 @@ const ghAdvisoryFromWssVuln =
     // ## required properties
     summary: `[${name}]: ${topFix.fixResolution}`,
     description, // TODO: Add actionable advice to description
-    severity: severity.toLowerCase(),
+    // severity: severity.toLowerCase(), "Cannot define both severity and cvss_vector_string" for some reason
     cvss_vector_string: scoreMetadataVector,
     vulnerabilities: [],
   });
