@@ -32,8 +32,8 @@ jobs:
           overwrite: true
       - name: Upload Mend Security Advisories
         run: node --experimental-default-type=module "${{ github.workspace }}/bin/upload-mend-security-advisories.js"
-        with:
-          github-token: "${{ secrets.MEND_ADVISORIES_GITHUB_TOKEN }}"
+        env:
+          GITHUB_TOKEN: "${{ secrets.MEND_ADVISORIES_GITHUB_TOKEN }}"
       # - name: Upload analysis results to GitHub
       #   uses: github/codeql-action/upload-sarif@v3
       #   with:
