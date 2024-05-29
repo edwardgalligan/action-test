@@ -25,7 +25,7 @@ jobs:
       - name: install node deps
         run: npm install || true
       - name: debug npm issues
-        uses: actions/upload-artiface@v4
+        uses: actions/upload-artifact@v4
         with:
           name: npm-logs
           path: /home/runner/.npm/_logs/
