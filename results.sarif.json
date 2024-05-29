@@ -1,0 +1,1704 @@
+{
+  "version": "2.1.0",
+  "$schema": "http://json.schemastore.org/sarif-2.1.0-rtm.4",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Mend.io WSS Unified Agent",
+          "informationUri": "https://docs.mend.io"
+        }
+      },
+      "artifacts": [
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "1293a0b69807412a8c77ab9926686b18f628c00c"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "9c4d3635d5cde8cd528f87cc6ad8864a193c438a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "43f5c060370afaebd3c2eff604dfba4069e3b39f"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "86f5be535df522e13296920403287c701916f1a0"
+          }
+        },
+        {
+          "description": {
+            "text": "org.owasp.esapi"
+          },
+          "hashes": {
+            "sha1": "76368a660cb10e385c50e5bb5001790462248e61"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "ec4aa083c0017ff970af7265ed5c051abd0ea140"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "be9bc2e286b3d9336e79bd2c763673d8ae07294b"
+          }
+        },
+        {
+          "description": {
+            "text": "todc-bootstrap"
+          },
+          "hashes": {
+            "sha1": "e2b7590d6ec1fdac66b01fdf66ae0879f53b1262"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-pool"
+          },
+          "hashes": {
+            "sha1": "75b6e20c596ed2945a259cea26d7fadd298398e6"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-configuration"
+          },
+          "hashes": {
+            "sha1": "2b36e4adfb66d966c5aef2d73deb6be716389dc9"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "6832615b3d6a325743a02fa51ed42c4380ab1966"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.xmlgraphics"
+          },
+          "hashes": {
+            "sha1": "22bf8b4c207dc46859db0269853186d8dfc8cb9a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "d78d9e3dacfd73691eca166cb488cb80ba858f96"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.commons"
+          },
+          "hashes": {
+            "sha1": "62ebe7544cb7164d87e0637a2a6a2bdc981395e8"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "6816185cd8a2b20cbbc95f284a973c1e72323a74"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache-extras.beanshell"
+          },
+          "hashes": {
+            "sha1": "fb418f9b33a0b951e9a2978b4b6ee93b2707e72f"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "d4c3461e2d0373ee0646e9ce6104c55224b816e5"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "125b0bcb11d276f29ad985ae971a45af28f10951"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "50a8ceed180c7b6804b7d7d69c0499f4fc23407f"
+          }
+        },
+        {
+          "description": {
+            "text": "twitter-bootstrap"
+          },
+          "hashes": {
+            "sha1": "27947c0c0fa837da9bdfdfc36f649c25f54bd1c0"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "adbc495fdf8667e3a7119d8ab23502659887afce"
+          }
+        },
+        {
+          "description": {
+            "text": "org.htmlunit"
+          },
+          "hashes": {
+            "sha1": "a824554fe9e41e403a05acffdecfda44a4cde629"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-logging"
+          },
+          "hashes": {
+            "sha1": "4bfc12adfe4842bf07b657f0369c4cb522955686"
+          }
+        },
+        {
+          "description": {
+            "text": "javassist"
+          },
+          "hashes": {
+            "sha1": "88b21d1ef06323beff58664cffa62848c033ecd2"
+          }
+        },
+        {
+          "description": {
+            "text": "com.sun.jersey"
+          },
+          "hashes": {
+            "sha1": "44df9a1310c1278b62658509aca3ca53978e8822"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.mina"
+          },
+          "hashes": {
+            "sha1": "2a978175e8775dd2e5bb2c66ce1a0ccef9f49385"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "14102bba33ff72670e6957787db1acf0bd2044f0"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "b4bbf680d62ace9db2cc390ecfb33be70ae241ca"
+          }
+        },
+        {
+          "description": {
+            "text": "asm"
+          },
+          "hashes": {
+            "sha1": "c157def142714c544bdea2e6144645702adf7097"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-beanutils"
+          },
+          "hashes": {
+            "sha1": "d52b9abcd97f38c81342bb7e7ae1eee9b73cba51"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "23372c11b1ea4106bd0d516b1b6b4c840640110c"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.servicemix.bundles"
+          },
+          "hashes": {
+            "sha1": "98912946d4e6746792c631d31a742f7d4d9c75a3"
+          }
+        },
+        {
+          "description": {
+            "text": "dom4j"
+          },
+          "hashes": {
+            "sha1": "5d3ccc056b6f056dbf0dddfdf43894b9065a8f94"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "5c312dc2f55e42067329d75dcd3788596a333fb1"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "35fefd1aec3e6fb0b7a8eaf263e0aa490b3cd565"
+          }
+        },
+        {
+          "description": {
+            "text": "org.bouncycastle"
+          },
+          "hashes": {
+            "sha1": "f81e5af49571a9d5a109a88f239a73ce87055417"
+          }
+        },
+        {
+          "description": {
+            "text": "org.bouncycastle"
+          },
+          "hashes": {
+            "sha1": "54280e7195a7430d7911ded93fc01e07300b9526"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "8d85c372b7c512a386d97fbe78f985a24962baef"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "4cfd1434fa42341bc447b911cb5863a8ba723f48"
+          }
+        },
+        {
+          "description": {
+            "text": "org.opentest4j"
+          },
+          "hashes": {
+            "sha1": "152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apiguardian"
+          },
+          "hashes": {
+            "sha1": "a231e0d844d2721b0fa1b238006d15c6ded6842a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.xmlgraphics"
+          },
+          "hashes": {
+            "sha1": "d5ff4e0463af8a0ea5ab8d782c5418bab2f45c4d"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "95009a8e68f261ec30ae56f49770d4317b0e73f2"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "9ccced6c00cd7f98d0eb883089e53b390949a8ce"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "5aa5409f0fc3043ab9b0425c06d0fc281141c7a5"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "7c6da2311cd599d737028fef67d5c5b9ab949f28"
+          }
+        },
+        {
+          "description": {
+            "text": "javax.ws.rs"
+          },
+          "hashes": {
+            "sha1": "59033da2a1afd56af1ac576750a8d0b1830d59e6"
+          }
+        },
+        {
+          "description": {
+            "text": "xml-apis"
+          },
+          "hashes": {
+            "sha1": "3789d9fada2d3d458c4ba2de349d48780f381ee3"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "dd19e59200ee205afdd7bf5c198f63683ff09b02"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.xmlgraphics"
+          },
+          "hashes": {
+            "sha1": "83ef2a8b449444a1d57e91e938522899317a8672"
+          }
+        },
+        {
+          "description": {
+            "text": "org.hibernate.javax.persistence"
+          },
+          "hashes": {
+            "sha1": "3306a165afa81938fc3d8a0948e891de9f6b192b"
+          }
+        },
+        {
+          "description": {
+            "text": "org.hibernate"
+          },
+          "hashes": {
+            "sha1": "6b36a1eef76cbccc2757f22a795b5e12ab56b3d5"
+          }
+        },
+        {
+          "description": {
+            "text": "org.junit.jupiter"
+          },
+          "hashes": {
+            "sha1": "2fe4ba3d31d5067878e468c96aa039005a9134d3"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "ec7230be79594f3888c1a4afcb2ad773e796a0ec"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "5903ccd894bc13c9ea3efe132ea4f020058b684a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.xmlgraphics"
+          },
+          "hashes": {
+            "sha1": "39b233a71430ffa9d0282d47789a58fa8bf4f861"
+          }
+        },
+        {
+          "description": {
+            "text": "com.github.ben-manes.caffeine"
+          },
+          "hashes": {
+            "sha1": "b162491f768824d21487551873f9b3b374a7fe19"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-lang"
+          },
+          "hashes": {
+            "sha1": "0ce1edb914c94ebc388f086c6827e8bdeec71ac2"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.httpcomponents.core5"
+          },
+          "hashes": {
+            "sha1": "2872764df7b4857549e2880dd32a6f9009166289"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "d0217cd14777256232780269d6347b0ca02db294"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "12837ddaa9925965e96073e1e524b98c1bf6ac6c"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "6aca881637b66b29024814c6daeee1637502ede0"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "54324e277a95b702b8cc149ed2c8618bc497e40d"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "bb3d19ab588ed361c331199ced6123ad6e260031"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-codec"
+          },
+          "hashes": {
+            "sha1": "47bd4d333fba53406f6c6c51884ddbca435c8862"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "71581b0f3bd8c7e11a276ca90435f28f21ac6ae7"
+          }
+        },
+        {
+          "description": {
+            "text": "org.hibernate"
+          },
+          "hashes": {
+            "sha1": "c74f1e1bf4fb6b8eaa7e501e6ccba9e055e52974"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "8edb5f9e1e0d7fba07ef98305869152704708d5c"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "a3092a02129c5aed87c58bb291f6ea20432ad03a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.slf4j"
+          },
+          "hashes": {
+            "sha1": "80229737f704b121a318bba5d5deacbcf395bc77"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "7ed9fa8aa488b479cb94617386bff0b4312217ef"
+          }
+        },
+        {
+          "description": {
+            "text": "jquery"
+          },
+          "hashes": {
+            "sha1": "8258d046f17dd3c15a5d3984e1868b7b5d1db329"
+          }
+        },
+        {
+          "description": {
+            "text": "org.hibernate"
+          },
+          "hashes": {
+            "sha1": "ce990611448fc2865469e3b68d2fe76b050e3c4f"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "e533ca92f918ce6623c4c516705b8f5b45a2d45a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "2d3ae3dc18712707389f64a6a70e6f2caf793a0b"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.jdbm"
+          },
+          "hashes": {
+            "sha1": "d26d8a464641b50b46f109b19f01b0cd1d841533"
+          }
+        },
+        {
+          "description": {
+            "text": ""
+          },
+          "hashes": {
+            "sha1": "214e84f8920ab265e2cec97049f00b4fe4044266"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "08ac898e8a8e31fbba134826f57f940c7a6f7c0b"
+          }
+        },
+        {
+          "description": {
+            "text": "com.sun.jersey"
+          },
+          "hashes": {
+            "sha1": "fbdcb39db6a6976944a621fe11bf1d2ff048d7c2"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "e49f8517264b7f44f9afdf8183832bc14f3e3f4a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "34ee790ccaddab32c54763d7cfbb696cfbb0c5c2"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "d51f414529b4468ff5c89d2e77ace6e32867bdf0"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "1e7432c45b3936577284704230884c4f4461a63f"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "ba43a9ff5a695f4f21e3473d2a2ef1ce56508ca0"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.httpcomponents.core5"
+          },
+          "hashes": {
+            "sha1": "34d8332b975f9e9a8298efe4c883ec43d45b7059"
+          }
+        },
+        {
+          "description": {
+            "text": "xom"
+          },
+          "hashes": {
+            "sha1": "c1012b95027799beabd123a3f651aea19d13edc5"
+          }
+        },
+        {
+          "description": {
+            "text": "xml-apis"
+          },
+          "hashes": {
+            "sha1": "41a8b86b358e87f3f13cf46069721719105aff66"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "6ded06d00587a2783a13e83166a07ccb2d78fcd6"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "a479568c8eafdd1f7c06b4e040bf7f35b82f1a16"
+          }
+        },
+        {
+          "description": {
+            "text": "javax.transaction"
+          },
+          "hashes": {
+            "sha1": "2ca09f0b36ca7d71b762e14ea2ff09d5eac57558"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "72f79910f77b3129f7518f18efd82e44fcc2fa76"
+          }
+        },
+        {
+          "description": {
+            "text": "org.owasp.antisamy"
+          },
+          "hashes": {
+            "sha1": "86267d6fd01416b51a8137df36c106233796ab07"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.xmlgraphics"
+          },
+          "hashes": {
+            "sha1": "de2d1bd8d40474bbe876bb269410c750489f08e5"
+          }
+        },
+        {
+          "description": {
+            "text": "cglib"
+          },
+          "hashes": {
+            "sha1": "97d03461dc1c04ffc636dcb2579aae7724a78ef2"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.commons"
+          },
+          "hashes": {
+            "sha1": "1ed471194b02f2c6cb734a0cd6f6f107c673afae"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-io"
+          },
+          "hashes": {
+            "sha1": "377d592e740dc77124e0901291dbfaa6810a200e"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "a63fcbba2a1f8b907ebffef067667915582919f4"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "7a8c0879fe47f3d980f791433168f5bcb736325f"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "1c1733968547cba370c818651ae87ec61f49e882"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "3bd13dbc1f6a9f8814978a9122a68a6f22209c29"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.httpcomponents.client5"
+          },
+          "hashes": {
+            "sha1": "56b53c8f4bcdaada801d311cf2ff8a24d6d96883"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.xmlgraphics"
+          },
+          "hashes": {
+            "sha1": "2862b81d9dc63990cb5586323b4a2410fc1f2249"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "a02e806d8a4b0c0c9315c9de8a1e848e9a5dae24"
+          }
+        },
+        {
+          "description": {
+            "text": "org.junit.platform"
+          },
+          "hashes": {
+            "sha1": "d533ff2c286eaf963566f92baf5f8a06628d2609"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "24efd948d751edbca5db3f701b6ca3de2252601a"
+          }
+        },
+        {
+          "description": {
+            "text": "org.bouncycastle"
+          },
+          "hashes": {
+            "sha1": "4636a0d01f74acaf28082fb62b317f1080118371"
+          }
+        },
+        {
+          "description": {
+            "text": "org.springframework"
+          },
+          "hashes": {
+            "sha1": "0cee6b1d12d87780cbf3cf2b8781d058c7c0e492"
+          }
+        },
+        {
+          "description": {
+            "text": "xerces"
+          },
+          "hashes": {
+            "sha1": "f051f988aa2c9b4d25d05f95742ab0cc3ed789e2"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "8ec2ea0b43901f95fbc5105b2e40591edbe39336"
+          }
+        },
+        {
+          "description": {
+            "text": "antlr"
+          },
+          "hashes": {
+            "sha1": "cf4f67dae5df4f9932ae7810f4548ef3e14dd35e"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-collections"
+          },
+          "hashes": {
+            "sha1": "8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5"
+          }
+        },
+        {
+          "description": {
+            "text": "twitter-bootstrap"
+          },
+          "hashes": {
+            "sha1": "542cfd539f0cad650342c8cab8baf1cdbcd5fea6"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "7b4729e39ba2c72bb877b9a1c491b27a9116d3f3"
+          }
+        },
+        {
+          "description": {
+            "text": "org.slf4j"
+          },
+          "hashes": {
+            "sha1": "e8de9f981349fee84f8d708cd0ed2337d193faed"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "1d387e94f1235c0aaceb720a783037ae25b968f5"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "d841d10ee144553c74c64842dba49691f3b7a922"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.api"
+          },
+          "hashes": {
+            "sha1": "ab7514a67446b5c13b5eaf3f3b264b9d716c3c8f"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.commons"
+          },
+          "hashes": {
+            "sha1": "458563f69fbdaebf7daadfe10dc3a22e42a7de50"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.server"
+          },
+          "hashes": {
+            "sha1": "b24ed058db7b2d2c9c17683280dd9c35ff8c393d"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-dbcp"
+          },
+          "hashes": {
+            "sha1": "30be73c965cc990b153a100aaaaafcf239f82d39"
+          }
+        },
+        {
+          "description": {
+            "text": "org.hsqldb"
+          },
+          "hashes": {
+            "sha1": "d92d4d2aa515714da2165c9d640d584c2896c9df"
+          }
+        },
+        {
+          "description": {
+            "text": "org.apache.directory.mavibot"
+          },
+          "hashes": {
+            "sha1": "511d8c0027a44eff79199ad5ef9bd16c00768e10"
+          }
+        },
+        {
+          "description": {
+            "text": "com.sun.jersey"
+          },
+          "hashes": {
+            "sha1": "21c5319c82ca29705715b315553a16f11b16655e"
+          }
+        },
+        {
+          "description": {
+            "text": "commons-fileupload"
+          },
+          "hashes": {
+            "sha1": "ad4ad2ab2961b4e1891472bd1a33fabefb0385f3"
+          }
+        },
+        {
+          "description": {
+            "text": "jquery"
+          },
+          "hashes": {
+            "sha1": "37b1db88b57438f1072a8ebc7559c909c9d3a682"
+          }
+        },
+        {
+          "description": {
+            "text": "ch.qos.reload4j"
+          },
+          "hashes": {
+            "sha1": "f9d9e55d1072d7a697d2bf06e1847e93635a7cf9"
+          }
+        }
+      ],
+      "results": [
+        {
+          "ruleId": "WS-2023-0429",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version no_fix\n\nThe Validator.isValidSafeHTML method can result in false negatives where it reports some input as safe (i.e., returns true), but really isn't, and using that same input as-is can in certain circumstances result in XSS vulnerabilities. Because this method cannot be fixed, it is being deprecated and will be removed in one years time from when this advisory is published.\nNote that all versions of ESAPI, that have this method (which dates back to at least the ESAPI 1.3 release more than 15 years ago) have this issue and it will continue to exist until these two methods are removed in a future ESAPI release."
+          },
+          "properties": {
+            "cveUrl": "https://nvd.nist.gov/vuln/detail/WS-2023-0429",
+            "mendUrl": "",
+            "publishDate": "Nov 24, 2023, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 6.1,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 4
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2019-8331",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version bootstrap - 3.4.1,4.3.1;bootstrap-sass - 3.4.1,4.3.1\n\nIn Bootstrap before 3.4.1 and 4.3.x before 4.3.1, XSS is possible in the tooltip or popover data-template attribute."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/twitter-bootstrap/3.3.4",
+            "cveUrl": "https://github.com/twbs/bootstrap/pull/28236",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2019-8331",
+            "publishDate": "Feb 20, 2019, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 111
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2018-14040",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version bootstrap - 3.4.0,4.1.2\n\nIn Bootstrap before 4.1.2, XSS is possible in the collapse data-parent attribute."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/twitter-bootstrap/3.3.4",
+            "cveUrl": "https://nvd.nist.gov/vuln/detail/CVE-2018-14040",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2018-14040",
+            "publishDate": "Jul 13, 2018, 1:00:00 AM",
+            "cvss3Severity": "LOW",
+            "cvss3Score": 3.7,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 111
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2018-20677",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version Bootstrap - v3.4.0;NorDroN.AngularTemplate - 0.1.6;Dynamic.NET.Express.ProjectTemplates - 0.8.0;dotnetng.template - 1.0.0.4;ZNxtApp.Core.Module.Theme - 1.0.9-Beta;JMeter - 5.0.0\n\nIn Bootstrap before 3.4.0, XSS is possible in the affix configuration target property."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/twitter-bootstrap/3.3.4",
+            "cveUrl": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20677",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2018-20677",
+            "publishDate": "Jan 9, 2019, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 111
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2018-14042",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version bootstrap - 3.4.0,4.1.2\n\nIn Bootstrap before 4.1.2, XSS is possible in the data-container property of tooltip."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/twitter-bootstrap/3.3.4",
+            "cveUrl": "https://nvd.nist.gov/vuln/detail/CVE-2018-14042",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2018-14042",
+            "publishDate": "Jul 13, 2018, 1:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 111
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2018-20676",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version bootstrap - 3.4.0\n\nIn Bootstrap before 3.4.0, XSS is possible in the tooltip data-viewport attribute."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/twitter-bootstrap/3.3.4",
+            "cveUrl": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20676",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2018-20676",
+            "publishDate": "Jan 9, 2019, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 111
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-10735",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version bootstrap - 3.4.0, 4.0.0-beta.2\n\nIn Bootstrap 3.x before 3.4.0 and 4.x-beta before 4.0.0-beta.2, XSS is possible in the data-target attribute, a different vulnerability than CVE-2018-14041.\n Mend Note: Converted from WS-2018-0021, on 2022-11-08."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/twitter-bootstrap/3.3.4",
+            "cveUrl": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10735",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2016-10735",
+            "publishDate": "Jan 9, 2019, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 111
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2020-10683",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.dom4j:dom4j:2.1.3,org.dom4j:dom4j:2.0.3\n\ndom4j before 2.0.3 and 2.1.x before 2.1.3 allows external DTDs and External Entities by default, which might enable XXE attacks. However, there is popular external documentation from OWASP showing how to enable the safe, non-default behavior in any application that uses dom4j."
+          },
+          "properties": {
+            "cveUrl": "https://github.com/dom4j/dom4j/tree/version-2.1.3,https://github.com/dom4j/dom4j/tree/version-2.0.3",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2020-10683",
+            "publishDate": "May 1, 2020, 1:00:00 AM",
+            "cvss3Severity": "CRITICAL",
+            "cvss3Score": 9.8,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "HIGH",
+            "mendScore": 7.5,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 32
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2018-1000632",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.dom4j:dom4j:2.0.3\n\ndom4j version prior to version 2.1.1 contains a CWE-91: XML Injection vulnerability in Class: Element. Methods: addElement, addAttribute that can result in an attacker tampering with XML documents through XML injection. This attack appear to be exploitable via an attacker specifying attributes or elements in the XML document. This vulnerability appears to have been fixed in 2.1.1 or later."
+          },
+          "properties": {
+            "cveUrl": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000632/",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2018-1000632",
+            "publishDate": "Aug 20, 2018, 1:00:00 AM",
+            "cvss3Severity": "HIGH",
+            "cvss3Score": 7.5,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 5,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 32
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2020-25638",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.hibernate:hibernate-core:5.3.20.Final,5.4.24.Final\n\nA flaw was found in hibernate-core in versions prior to and including 5.4.23.Final. A SQL injection in the implementation of the JPA Criteria API can permit unsanitized literals when a literal is used in the SQL comments of the query. This flaw could allow an attacker to access unauthorized information or possibly conduct further attacks. The highest threat from this vulnerability is to data confidentiality and integrity."
+          },
+          "properties": {
+            "cveUrl": "https://in.relation.to/2020/11/19/hibernate-orm-5424-final-release/",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2020-25638",
+            "publishDate": "Dec 2, 2020, 12:00:00 AM",
+            "cvss3Severity": "HIGH",
+            "cvss3Score": 7.4,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 5.8,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 51
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2019-14900",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.hibernate:hibernate-core:5.4.18.Final\n\nA flaw was found in Hibernate ORM in versions before 5.3.18, 5.4.18 and 5.5.0.Beta1. A SQL injection in the implementation of the JPA Criteria API can permit unsanitized literals when a literal is used in the SELECT or GROUP BY parts of the query. This flaw could allow an attacker to access unauthorized information or possibly conduct further attacks."
+          },
+          "properties": {
+            "cveUrl": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14900",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2019-14900",
+            "publishDate": "Jul 6, 2020, 1:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.5,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 51
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2020-11023",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version jquery - 3.5.0;jquery-rails - 4.4.0\n\nIn jQuery versions greater than or equal to 1.0.3 and before 3.5.0, passing HTML containing <option> elements from untrusted sources - even after sanitizing it - to one of jQuery's DOM manipulation methods (i.e. .html(), .append(), and others) may execute untrusted code. This problem is patched in jQuery 3.5.0."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/jquery/2.1.4",
+            "cveUrl": "https://github.com/jquery/jquery/security/advisories/GHSA-jpcq-cgw6-v4j6,https://github.com/rails/jquery-rails/blob/master/CHANGELOG.md#440",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2020-11023",
+            "publishDate": "Apr 29, 2020, 1:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N/E:P",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 124
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2020-11022",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version jQuery - 3.5.0\n\nIn jQuery versions greater than or equal to 1.2 and before 3.5.0, passing HTML from untrusted sources - even after sanitizing it - to one of jQuery's DOM manipulation methods (i.e. .html(), .append(), and others) may execute untrusted code. This problem is patched in jQuery 3.5.0."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/jquery/2.1.4",
+            "cveUrl": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11022",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2020-11022",
+            "publishDate": "Apr 29, 2020, 1:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N/E:P",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 124
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2015-9251",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version jQuery - 3.0.0\n\njQuery before 3.0.0 is vulnerable to Cross-site Scripting (XSS) attacks when a cross-domain Ajax request is performed without the dataType option, causing text/javascript responses to be executed."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/jquery/2.1.4",
+            "cveUrl": "https://nvd.nist.gov/vuln/detail/CVE-2015-9251",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2015-9251",
+            "publishDate": "Jan 18, 2018, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N/E:H",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 124
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2019-11358",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version jquery - 3.4.0\n\njQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype."
+          },
+          "properties": {
+            "language": "JavaScript",
+            "libraryUrl": "https://cdnjs.com/libraries/jquery/2.1.4",
+            "cveUrl": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11358",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2019-11358",
+            "publishDate": "Apr 20, 2019, 1:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N/E:P",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 4.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 124
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2024-23635",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.owasp.antisamy:antisamy:1.7.5\n\nAntiSamy is a library for performing fast, configurable cleansing of HTML coming from untrusted sources. Prior to 1.7.5, there is a potential for a mutation XSS (mXSS) vulnerability in AntiSamy caused by flawed parsing of the HTML being sanitized. To be subject to this vulnerability the `preserveComments` directive must be enabled in your policy file. As a result, certain crafty inputs can result in elements in comment tags being interpreted as executable when using AntiSamy's sanitized output. Patched in AntiSamy 1.7.5 and later. "
+          },
+          "properties": {
+            "cveUrl": "https://github.com/nahsra/antisamy/security/advisories/GHSA-2mrq-w8pv-5pvq",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2024-23635",
+            "publishDate": "Feb 2, 2024, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 6.1,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 6.1,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 91
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-1000027",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.springframework:spring-web:6.0.0\n\nPivotal Spring Framework through 5.3.16 suffers from a potential remote code execution (RCE) issue if used for Java deserialization of untrusted data. Depending on how the library is implemented within a product, this issue may or not occur, and authentication may be required. NOTE: the vendor's position is that untrusted data is not an intended use case. The product's behavior will not be changed because some users rely on deserialization of trusted data.\n Mend Note: After conducting further research, Mend has determined that all versions of spring-web up to version 6.0.0 are vulnerable to CVE-2016-1000027."
+          },
+          "properties": {
+            "cveUrl": "https://github.com/advisories/GHSA-4wrc-f8pq-fpqp",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2016-1000027",
+            "publishDate": "Jan 2, 2020, 12:00:00 AM",
+            "cvss3Severity": "CRITICAL",
+            "cvss3Score": 9.8,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "HIGH",
+            "mendScore": 7.5,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 102
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2024-30172",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.bouncycastle:bcprov-jdk18on:1.78,org.bouncycastle:bcprov-jdk15to18:1.78, org.bouncycastle:bcprov-jdk14:1.78, BouncyCastle.Cryptography - 2.3.1\n\nIn BouncyCastle before 1.78, crafted signature and public key can be used to trigger an infinite loop in the Ed25519 verification code."
+          },
+          "properties": {
+            "cveUrl": "https://github.com/bcgit/bc-java/issues/1599",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2024-30172",
+            "publishDate": "Mar 24, 2024, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 5.9,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 5.9,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 105
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2024-29857",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.bouncycastle:bcprov-jdk15to18:1.78, org.bouncycastle:bcprov-jdk18on:1.78, BouncyCastle.Cryptography - 2.3.1\n\nAn issue was discovered in Bouncy Castle Java Cryptography APIs before BC 1.78. Importing an EC certificate with crafted F2m parameters can lead to excessive CPU consumption during the evaluation of the curve parameters."
+          },
+          "properties": {
+            "cveUrl": "https://github.com/advisories/GHSA-8xfc-gm6g-vgpv",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2024-29857",
+            "publishDate": "May 9, 2024, 1:00:00 AM",
+            "cvss3Severity": "HIGH",
+            "cvss3Score": 7.5,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "HIGH",
+            "mendScore": 7.5,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 105
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2023-33202",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.bouncycastle:bcprov-jdk14:1.73, org.bouncycastle:bcprov-jdk15to18: 1.73, org.bouncycastle:bcprov-jdk18on:1.73\n\nBouncy Castle for Java before 1.73 contains a potential Denial of Service (DoS) issue within the Bouncy Castle org.bouncycastle.openssl.PEMParser class. This class parses OpenSSL PEM encoded streams containing X.509 certificates, PKCS8 encoded keys, and PKCS7 objects. Parsing a file that has crafted ASN.1 data through the PEMParser causes an OutOfMemoryError, which can enable a denial of service attack. (For users of the FIPS Java API: BC-FJA 1.0.2.3 and earlier are affected; BC-FJA 1.0.2.4 is fixed.)"
+          },
+          "properties": {
+            "cveUrl": "https://github.com/advisories/GHSA-wjxj-5m7g-mg7q",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2023-33202",
+            "publishDate": "Nov 23, 2023, 12:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 5.5,
+            "scoreMetadataVector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 5.5,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 105
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2023-33201",
+          "level": "error",
+          "message": {
+            "text": "Upgrade to version org.bouncycastle:bcprov-ext-jdk18on:1.74, org.bouncycastle:bcprov-jdk18on:1.74, org.bouncycastle:bcprov-debug-jdk18on:1.74, org.bouncycastle:bcprov-ext-debug-jdk18on:1.74, org.bouncycastle:bcprov-ext-jdk15to18:1.74, org.bouncycastle:bcprov-jdk15to18:1.74, org.bouncycastle:bcprov-debug-jdk14:1.74, org.bouncycastle:bcprov-debug-jdk15to18:1.74, org.bouncycastle:bcprov-ext-debug-jdk14:1.74, org.bouncycastle:bcprov-ext-debug-jdk15to18:1.74, org.bouncycastle:bcprov-jdk14:1.74\n\nBouncy Castle For Java before 1.74 is affected by an LDAP injection vulnerability. The vulnerability only affects applications that use an LDAP CertStore from Bouncy Castle to validate X.509 certificates. During the certificate validation process, Bouncy Castle inserts the certificate's Subject Name into an LDAP search filter without any escaping, which leads to an LDAP injection vulnerability."
+          },
+          "properties": {
+            "cveUrl": "https://github.com/bcgit/bc-java/wiki/CVE-2023-33201",
+            "mendUrl": "https://www.mend.io/vulnerability-database/CVE-2023-33201",
+            "publishDate": "Jul 5, 2023, 1:00:00 AM",
+            "cvss3Severity": "MEDIUM",
+            "cvss3Score": 5.3,
+            "scoreMetadataVector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+            "fixType": "UPGRADE_VERSION",
+            "severity": "MEDIUM",
+            "mendScore": 5.3,
+            "fixOrigin": "WHITESOURCE_EXPERT"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "index": 105
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

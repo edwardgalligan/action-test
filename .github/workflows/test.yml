@@ -18,8 +18,8 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: status-update
         run: ENV_VAR="${{ secrets.ENV_VAR }}" "${{ github.workspace }}/bin/status-update.sh"
-      # - name: Upload analysis results to GitHub
-      #   uses: github/codeql-action/upload-sarif@v2
-      #   with:
-      #     sarif_file: results.sarif
-      #     wait-for-processing: true
+      - name: Upload analysis results to GitHub
+        uses: github/codeql-action/upload-sarif@v2
+        with:
+          sarif_file: results.sarif.json
+          wait-for-processing: true
